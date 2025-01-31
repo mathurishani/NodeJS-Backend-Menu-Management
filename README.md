@@ -151,7 +151,7 @@ I chose MongoDB because it is a flexible NoSQL database that fits well with the 
 
 ### Q2. 3 things I learned from this assignment:
 
-- How to set up a Node.js backend server with Express and MongoDB.
+- How to set up case-insensitive search using regex in MongoDB.
 - The importance of building RESTful APIs for managing resources in an organized manner.
 - How to handle different CRUD operations effectively with proper validation.
 
@@ -161,6 +161,15 @@ The most difficult part was managing the relationships between categories, subca
 
 ### Q4. What would you have done differently given more time?
 
-Given more time, I would add additional features like pagination for fetching large sets of data, implement authentication/authorization, and enhance error handling across all endpoints.
+Given more time, I would add delete functionality for categories, subcategories, and items, and enhance error handling across all endpoints.
+
+## Video Link
+
+[Watch the demo video](https://www.loom.com/share/d816b5c0bc934505acf6da4e9afdc2fb?sid=9cbbd47b-8c39-4c94-b1ee-eb2a6c5969de)
+
+## Credit
+
+Created by Ishani Mathur.  
+Reach out at [mathurishani13@gmail.com](mailto:mathurishani13@gmail.com)
 
 
